@@ -19,3 +19,12 @@ This project focuses on analyzing e-commerce transaction data using Python.
 
 ## Dataset
 Online Retail / E-Commerce Transaction Dataset from Kaggle.
+## Dataset Source
+
+The dataset used in this project is available on Kaggle:
+
+https://www.kaggle.com/datasets/carrie1/ecommerce-data/data
+
+## Project Notebook
+
+The complete analysis and implementation are available in the Jupyter Notebook uploaded above.
